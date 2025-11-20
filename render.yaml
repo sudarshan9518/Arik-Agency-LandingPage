@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: Agency-Landing-Page
+    env: static
+    staticPublishPath: "."
